@@ -1,7 +1,16 @@
 # PHPWord
+   - Documentation : https://phpword.readthedocs.io
+   
+# Ujicoba Fitur PHPWord
+1. Download File (Sudah disertakan)
+2. Ekstrak file
+3. Pindahkan folder hasil ekstrak ke folder xampp/htdocs
+4. Silahkan akses melalui browser dengan ketik
+   - http://localhost/composer/samples
 
 # Installasi PHPWord
 1. Install Composer
+   - file sudah disertakan
 2. Buka CMD, arahkan ke folder aplikasi "xampp/htdocs/{nama_folder}
 3. ketik : composer require phpoffice/phpword
 
