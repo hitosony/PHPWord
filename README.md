@@ -9,7 +9,7 @@
    - http://localhost/composer/samples
 
 # Installasi PHPWord
-1. Download file composer-setup.exe
+1. Download file composer-setup.exe (Sudah disertakan)
 2. Install Composer
 3. Buka CMD, arahkan ke folder aplikasi "xampp/htdocs/{nama_folder}
 4. ketik : composer require phpoffice/phpword
